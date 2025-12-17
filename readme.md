@@ -3,7 +3,15 @@
 **Author:** Judy Cheng
 
 ---
+## 🖥️ Interactive Simulator
 
+**Washington EV Adoption Simulator**  
+🔗 https://home-page-ev.onrender.com/
+
+- Statewide forecasting by year  
+- County-level forecasting by county + year  
+
+---
 ## 📌 Project Overview
 
 Tesla’s long-term EV sales growth depends on delivering a reliable, anxiety-free charging experience.  
@@ -173,16 +181,6 @@ Early front-loading exceeds annual limits in 2025–2026 but remains **fully aff
   - Year 5: Re-estimate with updated population, EVs, chargers, and behavior  
 
 Balances long-term stability with real-world adaptability.
-
----
-
-## 🖥️ Interactive Simulator
-
-**Washington EV Adoption Simulator**  
-🔗 https://home-page-ev.onrender.com/
-
-- Statewide forecasting by year  
-- County-level forecasting by county + year  
 
 ---
 
