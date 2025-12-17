@@ -103,7 +103,7 @@ Loads statewide cubic formulas from Excel and predicts EV metrics.
 
 Data source:
 ```
-static/data/County-level formula_cleaned.xlsx
+static/data/equation.xlsx
 ```
 
 ---
