@@ -154,12 +154,12 @@ def evaluate_formula(formula_str, x_value):
         Example: "y = 0.0021*x**3 – 4.7*x**2 + 4500*x – 140000"
 
     x_value : float
-        Number of supercharger points input by user.
+        year input by user.
 
     Returns
     -------
     float
-        The predicted EV registration or adoption value.
+        The predicted EV registration and adoption value.
     """
 ```
 
