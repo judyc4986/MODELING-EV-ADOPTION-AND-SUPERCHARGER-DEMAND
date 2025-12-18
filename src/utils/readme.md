@@ -231,7 +231,7 @@ The PDF includes:
 
 👉 **Download:** `User_Demonstration_Guide.pdf`
 
-https://github.com/judyc4986/Captone/blob/558f20b6941a01763682c19f325467c227360d17/Deployment/Deploy%20to%20Production/User%20Demonstration%20Guide.pdf
+https://github.com/judyc4986/Captone/blob/main/Deployment/Deploy%20to%20Production/User%20Guide%20Desmonstration.docx
 
 ---
 
