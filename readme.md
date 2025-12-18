@@ -61,9 +61,12 @@ These targets anchor all adoption trajectories and constrain long-run outcomes.
 - **Population (Age 25–59):** U.S. Census (ACS)  
 - **EV Registrations (VIN-based, 2024):** Kaggle EV Dataset  
 - **Tesla Supercharger Locations:** Tesla Supercharger Map  
-- **County Boundaries:** ArcGIS REST API  
-
+- **County Boundaries:** ArcGIS REST API
+  
 All datasets are cleaned, standardized, and merged at the county level.
+
+📁 View source code: 
+https://github.com/judyc4986/MODELING-EV-ADOPTION-AND-SUPERCHARGER-DEMAND/blob/main/notebooks/Supercharger_VINGeocoding.ipynb
 
 ---
 
@@ -79,6 +82,10 @@ Key insights:
 - Large rural gaps requiring early geographic coverage  
 
 This spatial profiling informs both **minimum coverage needs** and **priority deployment zones**.
+
+
+📁 View source code: 
+https://github.com/judyc4986/MODELING-EV-ADOPTION-AND-SUPERCHARGER-DEMAND/blob/main/notebooks/map.ipynb
 
 ---
 
@@ -118,6 +125,10 @@ Key mechanics:
 - Saturation cap at **95% adoption**
 - Charger growth capped at **50% per year**
 
+📁 View source code: 
+https://github.com/judyc4986/MODELING-EV-ADOPTION-AND-SUPERCHARGER-DEMAND/blob/main/notebooks/lower%20and%20upper%20bound.ipynb
+https://github.com/judyc4986/MODELING-EV-ADOPTION-AND-SUPERCHARGER-DEMAND/blob/main/notebooks/4%20counties%20modeling.ipynb
+
 ---
 
 ## 🔢 Curve Fitting & Forecast Functions
@@ -143,7 +154,10 @@ These equations enable **year-by-year deployment planning**.
 Statewide results are built by **aggregating county forecasts**, preserving local dynamics while producing a unified planning view:
 - EV counts  
 - Charger counts  
-- Population-weighted adoption rates  
+- Population-weighted adoption rates
+
+📁 View source code: 
+https://github.com/judyc4986/MODELING-EV-ADOPTION-AND-SUPERCHARGER-DEMAND/blob/main/notebooks/Scale%20Up.ipynb
 
 ---
 
