@@ -12,6 +12,7 @@
 - County-level forecasting by county + year  
 
 ---
+![Statewide_Map](https://github.com/judyc4986/MODELING-EV-ADOPTION-AND-SUPERCHARGER-DEMAND/blob/main/img/maps/WA_supercharger_population_map_large.png)
 ## 📌 Project Overview
 
 Tesla’s long-term EV sales growth depends on delivering a reliable, anxiety-free charging experience.  
